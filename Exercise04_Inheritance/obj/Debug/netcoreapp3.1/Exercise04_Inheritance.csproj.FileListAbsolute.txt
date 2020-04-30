@@ -1,0 +1,11 @@
+C:\Users\Israilla\source\repos\Exercise04_Inheritance\Exercise04_Inheritance\bin\Debug\netcoreapp3.1\Exercise04_Inheritance.exe
+C:\Users\Israilla\source\repos\Exercise04_Inheritance\Exercise04_Inheritance\bin\Debug\netcoreapp3.1\Exercise04_Inheritance.deps.json
+C:\Users\Israilla\source\repos\Exercise04_Inheritance\Exercise04_Inheritance\bin\Debug\netcoreapp3.1\Exercise04_Inheritance.runtimeconfig.json
+C:\Users\Israilla\source\repos\Exercise04_Inheritance\Exercise04_Inheritance\bin\Debug\netcoreapp3.1\Exercise04_Inheritance.runtimeconfig.dev.json
+C:\Users\Israilla\source\repos\Exercise04_Inheritance\Exercise04_Inheritance\bin\Debug\netcoreapp3.1\Exercise04_Inheritance.dll
+C:\Users\Israilla\source\repos\Exercise04_Inheritance\Exercise04_Inheritance\bin\Debug\netcoreapp3.1\Exercise04_Inheritance.pdb
+C:\Users\Israilla\source\repos\Exercise04_Inheritance\Exercise04_Inheritance\obj\Debug\netcoreapp3.1\Exercise04_Inheritance.csprojAssemblyReference.cache
+C:\Users\Israilla\source\repos\Exercise04_Inheritance\Exercise04_Inheritance\obj\Debug\netcoreapp3.1\Exercise04_Inheritance.AssemblyInfoInputs.cache
+C:\Users\Israilla\source\repos\Exercise04_Inheritance\Exercise04_Inheritance\obj\Debug\netcoreapp3.1\Exercise04_Inheritance.AssemblyInfo.cs
+C:\Users\Israilla\source\repos\Exercise04_Inheritance\Exercise04_Inheritance\obj\Debug\netcoreapp3.1\Exercise04_Inheritance.dll
+C:\Users\Israilla\source\repos\Exercise04_Inheritance\Exercise04_Inheritance\obj\Debug\netcoreapp3.1\Exercise04_Inheritance.pdb
